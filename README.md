@@ -33,7 +33,7 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
 
 ### Week 1: Introduction and Basics
 
-- [ ] **Session 1: How the Web Works**
+- [x] **Session 1: How the Web Works**
   - Overview of the internet and the web
   - Understanding web servers and clients
   - How browsers work
@@ -41,7 +41,7 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
   - [MDN: How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
   - [W3Schools: How the Web Works](https://www.w3schools.com/whatis/)
 
-- [ ] **Session 2: Introduction to HTML**
+- [x] **Session 2: Introduction to HTML**
   - Basics of HTML
   - HTML structure: tags, elements, attributes
   - Creating a simple webpage
@@ -192,4 +192,17 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
   - Continuous Integration/Continuous Deployment (CI/CD)
   - Setting up a CI/CD pipeline with GitHub Actions
   - Hands-on: Automating deployment with GitHub Actions
-  - [GitHub Docs: Understanding GitHub Actions](https://docs.github.com/en
+  - [GitHub Docs: Understanding GitHub Actions](https://docs.github.com/en)
+
+
+## Instructor:
+
+![Instructor's Signature](./img/hero.png)
+
+**ADAMU MUHAMMAD MUHAMMAD**
+
+---
+
+### License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
