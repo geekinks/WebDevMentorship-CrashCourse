@@ -49,7 +49,7 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
   - [MDN: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
   - [W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
 
-- [ ] **Session 3: Advanced HTML**
+- [x] **Session 3: Advanced HTML**
   - Semantic HTML
   - Forms and input types
   - Multimedia elements: images, audio, video
