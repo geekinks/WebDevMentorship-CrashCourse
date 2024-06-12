@@ -61,6 +61,10 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
 
   - Create a personal homepage that includes a brief bio, a form to collect user information (name, email, and message), and at least one image and one video embedded.
 
+  - Submmited Assigment
+    - []()
+    - []()
+
 ### Week 2: Styling with CSS
 
 - [ ] **Session 1: Introduction to CSS**
@@ -71,7 +75,7 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
   - [MDN: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
   - [W3Schools: CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
 
-- [ ] **Session 2: Advanced CSS**
+- [x] **Session 2: Advanced CSS**
   - Box model, margins, padding, and borders
   - Positioning elements: static, relative, absolute, fixed
   - CSS Flexbox basics
