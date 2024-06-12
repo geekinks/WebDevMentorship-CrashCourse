@@ -1,0 +1,47 @@
+h1{
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 50%;
+    width: 460px;
+    height: 460px;
+    display: inline;
+}
+#about{
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid black;
+}
+.socail{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+div h1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+.fa{
+    text-align: center;
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-twitter{
+    color: cyan;
+}
+.fa-linkedin{
+    color: blueviolet;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-instagram{
+    color: purple;
+}
