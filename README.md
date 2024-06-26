@@ -67,7 +67,7 @@ Welcome to the **Web Development Mentorship Crash Course** repository! This comp
 
 ### Week 2: Styling with CSS
 
-- [ ] **Session 1: Introduction to CSS**
+- [x] **Session 1: Introduction to CSS**
   - What is CSS and how it works with HTML
   - CSS syntax and selectors
   - Applying styles to HTML elements

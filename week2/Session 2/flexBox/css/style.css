@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header h1 {
+    margin: 0;
+    font-size: 2em;
+    letter-spacing: 1px;
+}
+.container {
+    margin-top: 80px;
+    padding: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.flex-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    flex: 1 1 calc(33.333% - 40px);
+    box-sizing: border-box;
+}
+.relative-box {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.absolute-box-container {
+    position: relative;
+    height: 200px;
+    background-color: #eee;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.absolute-box {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.sticky-box {
+    position: sticky;
+    top: 10px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer p {
+    margin: 0;
+}
+.fixed-logo {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    padding: 10px 20px
+}
+.fixed-logo img {
+    width: 100px;
+    height: auto;
+}

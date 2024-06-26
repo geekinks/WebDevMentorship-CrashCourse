@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Flexbox with CSS Positioning</title>
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+
+        <header>
+            <h1>Portfolio Flexbox Demo</h1>
+        </header>
+
+        <div class="container">
+            <div class="flex-container">
+                <div class="flex-item">
+                    <h2>Static Positioning</h2>
+                    <p>This element is statically positioned. It follows the normal document flow.</p>
+                </div>
+
+                <div class="flex-item relative-box">
+                    <h2>Relative Positioning</h2>
+                    <p>This element is relatively positioned. It is moved 10px from the top and 10px from the left of its normal position.</p>
+                </div>
+
+                <div class="flex-item absolute-box-container">
+                    <h2>Absolute Positioning Container</h2>
+                    <div class="absolute-box">
+                        <h2>Absolute Positioning</h2>
+                        <p>This element is absolutely positioned within its relative container.</p>
+                    </div>
+                </div>
+
+                <div class="flex-item sticky-box">
+                    <h2>Sticky Positioning</h2>
+                    <p>This element is sticky. It will stick to the top of the viewport when you scroll past it.</p>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2024 Your Name. All rights reserved.</p>
+        </footer>
+
+        <div class="fixed-logo">
+            <img src="./img/logo.png" alt="logo">
+        </div>
+
+    </body>
+</html>
