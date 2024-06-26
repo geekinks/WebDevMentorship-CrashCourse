@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    width: 508px;
+    height: 80vh;
+    background-color: black;
+    color: white;
+    flex-wrap: wrap;
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+}
+
+.item{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    flex-grow: 1;
+
+    text-align: center;
+}
+.item-7{
+    flex-grow: 3;
+
+}
